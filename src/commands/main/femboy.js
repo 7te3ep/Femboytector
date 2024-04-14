@@ -99,7 +99,7 @@ module.exports = {
       });
 
       collector.on("end", async (collected) => {
-         let str = "";
+         let str = "Players : \n";
          Object.entries(userPlayed || {}).forEach((el) => {
             str += ` - <@${el[0]}> : ${el[1].won ? "Gagné" : "Perdu"}`;
          });
