@@ -53,7 +53,7 @@ module.exports = {
       const actionRow = new ActionRowBuilder().addComponents([isFem, notFem]);
 
       let embed = new EmbedBuilder()
-         .setTitle(`** Is it a femboy or a women ? **`)
+         .setTitle(`** Is it a femboy ? **`)
          .setImage(link)
          .setColor(0x000000)
          .setFooter({ text: "0 participants" });
