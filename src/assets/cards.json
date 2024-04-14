@@ -1,0 +1,506 @@
+{
+   "{}_": {
+      "name": "Esclavage moderne",
+      "rarity": "special",
+      "atk": 1,
+      "hp": 3
+   },
+   "063": {
+      "name": "Actif",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "057": {
+      "name": "Boost",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "066": {
+      "name": "Bot",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "053": {
+      "name": "Communication",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "058": {
+      "name": "Countryball",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "043": {
+      "name": "Deadlock parle dans le general",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "046": {
+      "name": "Debat",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "052": {
+      "name": "Double compte",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "054": {
+      "name": "Forum compter j'usqu a 1million",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "062": {
+      "name": "Gaucho vs droitard",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "050": {
+      "name": "General",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "059": {
+      "name": "Grocervo",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "060": {
+      "name": "Joueur RP",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "056": {
+      "name": "Les stats du Qanistan",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "045": {
+      "name": "Logs",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "051": {
+      "name": "Memes",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "044": {
+      "name": "MP Sapphire",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "048": {
+      "name": "Nouveau membre",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "047": {
+      "name": "Nouveau short",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "065": {
+      "name": "Parlement",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "067": {
+      "name": "Scam",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "061": {
+      "name": "Spam",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "064": {
+      "name": "Belge",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "055": {
+      "name": "Warn",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "029": {
+      "name": "Deadlock qui joue au GD",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "042": {
+      "name": "Abus de pouvoir",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "031": {
+      "name": "Pavé",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "039": {
+      "name": "Communiste",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "033": {
+      "name": "Star",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "040": {
+      "name": "Napfag",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "028": {
+      "name": "E-girl",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "041": {
+      "name": "Les animateurs",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "034": {
+      "name": "Devine le titre de cette carte",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "032": {
+      "name": "Nouvel event",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "030": {
+      "name": "Nouvelle video",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "035": {
+      "name": "Mention inutile",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "037": {
+      "name": "Normand vs breton",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "036": {
+      "name": "Its Uwu time",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "038": {
+      "name": "Carte ukraine",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "011": {
+      "name": "J'ai été un homme...",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "014": {
+      "name": "Les trois clans",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "012": {
+      "name": "Telsta ramène ses potes",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "007": {
+      "name": "Sigma revient",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "013": {
+      "name": "Tellas admin",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "009": {
+      "name": "ARG",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "005": {
+      "name": "Staff only furry RP",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "010": {
+      "name": "Cavaliers de l'Apocalypse",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "006": {
+      "name": "Les 6 factions",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "008": {
+      "name": "Weier discute",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "017": {
+      "name": "Ban",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "027": {
+      "name": "@everyone",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "026": {
+      "name": "Le retour d'un banni",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "021": {
+      "name": "Amongusbit",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "025": {
+      "name": "Weier proclame la dictature",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "022": {
+      "name": "T'as raté ton stage",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "015": {
+      "name": "Salon sensible",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "024": {
+      "name": "Partner",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "016": {
+      "name": "Tu contestes ?",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "018": {
+      "name": "FUNQAN",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "023": {
+      "name": "Drama",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "019": {
+      "name": "1984",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "020": {
+      "name": "Raid",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "001": {
+      "name": "Taoqan écrit",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "004": {
+      "name": "Face reveal",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "002": {
+      "name": "Le R modère",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "003": {
+      "name": "Weier UwU",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "049": {
+      "name": "Ticket",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "068": {
+      "name": "Ben",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "069": {
+      "name": "Taoqan sur Gartic Phone",
+      "rarity": "legendary",
+      "atk": 10,
+      "hp": 10
+   },
+   "070": {
+      "name": "Staff à la retraite",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "071": {
+      "name": "RP L'Amour est dans le Pré",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "081": {
+      "name": "Livre d'or",
+      "rarity": "mythic",
+      "atk": 7,
+      "hp": 8
+   },
+   "072": {
+      "name": "Slander",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "073": {
+      "name": "Les 2 ans du Qanistan",
+      "rarity": "epic",
+      "atk": 5,
+      "hp": 7
+   },
+   "074": {
+      "name": "Platiste",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "075": {
+      "name": "Les taoqartes",
+      "rarity": "rare",
+      "atk": 3,
+      "hp": 5
+   },
+   "076": {
+      "name": "Forum Palestine",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "077": {
+      "name": "Forum Israel",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "078": {
+      "name": "Créations",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "079": {
+      "name": "Feur",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "080": {
+      "name": "Staff RP",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "082": {
+      "name": "Soucis de monétisation",
+      "rarity": "common",
+      "atk": 1,
+      "hp": 3
+   },
+   "JPF": {
+      "name": "Qui veut gagner des taoqartes",
+      "rarity": "special",
+      "atk": 1,
+      "hp": 3
+   }
+}

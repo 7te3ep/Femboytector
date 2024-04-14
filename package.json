@@ -1,0 +1,22 @@
+{
+   "name": "discordjs",
+   "version": "1.0.0",
+   "description": "",
+   "main": "src/index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "type": "commonjs",
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@napi-rs/canvas": "^0.1.49",
+      "chartjs-node-canvas": "^4.1.6",
+      "discord.js": "^14.14.1",
+      "firebase": "^10.6.0",
+      "node-memwatch-new": "^0.0.3",
+      "node-schedule": "^2.1.1",
+      "nodemon": "^3.0.2",
+      "pm2": "^5.3.1"
+   }
+}

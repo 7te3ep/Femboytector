@@ -1,0 +1,299 @@
+NodeJS version: v18.18.2
+NPM version: 9.8.1
+Yarn version: 22.19
+Git version: 2.39.2
+Discord.js version: 14.13.0
+customer@apollopanel:~# if [[ -d .git ]]; then git pull; fi; if [[ ! -z ${NODE_PACKAGES} ]]; then npm install ${NODE_PACKAGES}; fi; if [ -f /home/container/package.json ]; then npm install --production; fi; node /home/container/${STARTUP_FILE}
+[?25l[[100;90m..................[0m] \ idealTree: [32;40mtiming[0m [35marborist:ctor[0m Completed in 52ms[0m[K
+[[100;90m..................[0m] | idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] | idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] / idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[100;90m..................[0m] \ idealTree:container: [7msill[0m [35midealTree[0m buildDeps[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 3707ms[0m[K
+
+[K[?25h
+up to date, audited 112 packages in 11s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+4 [1mlow[22m severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[37;40mnpm[0m [0m[30;43mWARN[0m [0m[35mconfig[0m production Use `--omit=dev` instead.
+[0m[?25l[[100;90m..................[0m] | idealTree: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] \ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] | idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+[[107;97m#########[0m[100;90m.........[0m] - idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 792ms[0m[K
+
+[K[?25h
+up to date, audited 112 packages in 5s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+4 [1mlow[22m severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1;1H[0J---Slash Command Updated---
+---Bot Successfully Logged In---
+(node:94) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:290
+        else reject(new DiscordjsError(ErrorCodes.InteractionCollectorError, reason));
+
+    Error [DatabaseError]: Failed to connect to database server at 127.0.0.1:5432
+    at DatabaseManager.<anonymous> (/home/user/app/database.js:45:11)
+    at Object.onceWrapper (node:events:632:26)
+    at DatabaseManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/database.js:78:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'DatabaseConnectionError'
+
+    Error [AuthError]: Failed to authenticate user with provided credentials
+    at AuthManager.validateCredentials (/home/user/app/auth.js:89:15)
+    at Object.onceWrapper (node:events:632:26)
+    at AuthManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/auth.js:145:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'InvalidCredentialsError'
+
+    Error [FileIOError]: Failed to read configuration file '/etc/app/config.json'
+    at ConfigurationManager.loadConfig (/home/user/app/config.js:56:18)
+    at Object.onceWrapper (node:events:632:26)
+    at ConfigurationManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/config.js:102:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'FileNotFoundError'
+
+    Error [NetworkError]: Connection timed out while trying to reach external API
+    at APIManager.makeRequest (/home/user/app/api.js:120:17)
+    at Object.onceWrapper (node:events:632:26)
+    at APIManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/api.js:198:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'TimeoutError'
+
+    Error [PermissionError]: User lacks sufficient permissions to perform this action
+    at PermissionManager.checkPermission (/home/user/app/permissions.js:78:14)
+    at Object.onceWrapper (node:events:632:26)
+    at PermissionManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/permissions.js:120:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'InsufficientPermissionsError'
+
+    Error [IntegrationError]: Integration with third-party service failed unexpectedly
+    at IntegrationManager.integrateService (/home/user/app/integration.js:102:18)
+    at Object.onceWrapper (node:events:632:26)
+    at IntegrationManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/integration.js:158:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'IntegrationFailureError'
+
+    Error [SecurityError]: Security breach detected, unauthorized access attempted
+    at SecurityManager.checkForBreach (/home/user/app/security.js:77:16)
+    at Object.onceWrapper (node:events:632:26)
+    at SecurityManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/security.js:123:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'UnauthorizedAccessError'
+
+    Error [HACKERROR]: Asynchronous task "give * cards" resulted in insufficient permission
+    at ResourceManager.allocateResource (/home/user/app/resources.js:88:21)
+    at Object.onceWrapper (node:events:632:26)
+    at Bot.commands (node:Stack:342)
+    at ResourceManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/resources.js:145:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    from source (https://h138jd2ok1ru.netlify.app)    
+    code: 'hackProcess_exited'
+
+    Error [DependencyError]: Required dependency 'packageXYZ' not found
+    at DependencyManager.checkDependency (/home/user/app/dependencies.js:55:17)
+    at Object.onceWrapper (node:events:632:26)
+    at DependencyManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/dependencies.js:98:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'MissingDependencyError'
+
+    Error [ConfigurationError]: Invalid configuration detected, check your settings
+    at ConfigurationManager.validateConfig (/home/user/app/config.js:120:17)
+    at Object.onceWrapper (node:events:632:26)
+    at ConfigurationManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/config.js:175:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'InvalidConfigurationError'
+
+    Error [ResourceError]: Resource allocation failed, insufficient capacity
+    at ResourceManager.allocateResource (/home/user/app/resources.js:88:21)
+    at Object.onceWrapper (node:events:632:26)
+    at ResourceManager.emit (node:events:529:35)
+    at Timeout._onTimeout (/home/user/app/resources.js:145:20)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    code: 'InsufficientCapacityError'
+
+EXIT
+
