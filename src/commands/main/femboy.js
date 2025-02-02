@@ -105,8 +105,8 @@ module.exports = {
          });
 
          const embed = new EmbedBuilder()
-            .setTitle(`**Game ended**`)
-            .setDescription(str)
+            .setTitle(`**Game ended : It was a ${willBeFem ? "Femboy" : "Women" }**`)
+	    .setDescription(str)
             .setColor(0x000000)
             .setFooter({ text: `${(wins / (wins + loses)) * 100}% winrate` });
 
